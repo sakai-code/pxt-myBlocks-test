@@ -1,6 +1,7 @@
 {
     "name": "pxt-myBlocks-test",
     "description": "c++ファイルビルドテストリポジトリです。",
+    "version": "0.0.0",
     "dependencies": {
         "core": "*",
         "radio": "*",
