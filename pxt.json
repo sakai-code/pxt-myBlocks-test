@@ -1,6 +1,6 @@
 {
-    "name": "ｃ",
-    "description": "",
+    "name": "pxt-myBlocks-test",
+    "description": "c++ファイルビルドテストリポジトリです。",
     "dependencies": {
         "core": "*",
         "radio": "*",
@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "myBlocks.ts"
+        "myBlocks.ts",
+        "myBlocks.cpp"
     ],
     "testFiles": [
         "test.ts"
